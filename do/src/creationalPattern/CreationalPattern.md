@@ -5,6 +5,8 @@
 * 简单工厂模式 Simple Factory
 * 工厂方法模式 Factory Method
 * 抽象工厂模式 Abstract Factory
+三个工厂有啥区别和联系呢？我们肯定是需要去总结的。
+
 * 建造者模式 Builder
 * 原型模式 Prototype
 * 单例模式 Singleton

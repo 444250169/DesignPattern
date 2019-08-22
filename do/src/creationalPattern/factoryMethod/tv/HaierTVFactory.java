@@ -2,7 +2,7 @@
  * heyzen.club Inc.
  * Copyright (c) 2018-2019 All Rights Reserved.
  */
-package creationalPattern.factoryMethod;
+package creationalPattern.factoryMethod.tv;
 
 /**
  * @author Zen
