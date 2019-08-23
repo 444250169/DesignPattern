@@ -8,6 +8,11 @@
 三个工厂有啥区别和联系呢？我们肯定是需要去总结的。
 
 ### 工厂模式总结
+![简单工厂设计模式UML](simpleFactory/简单工厂设计模式.jpg)
+
+![工厂方法设计模式UML](factoryMethod/工厂方法设计模式.jpg)
+
+![抽象工厂设计模式](abstractFactory/抽象工厂设计模式.jpg)
 
 
 * 建造者模式 Builder
